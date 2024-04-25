@@ -15,6 +15,8 @@
 
 Estou iniciando minha jornada no mundo da programação e estou adorando cada etapa do processo. Apaixonado por resolver problemas e criar soluções inovadoras, estou animado para aprender mais sobre desenvolvimento e colaborar em projetos incríveis. Acompanhe minha evolução aqui no GitHub!
 
+Faço parte tambem do laboratorio FuzzyLab, aonde amplio minha rede de conhecimentos e experiências.
+
 <div style="display: inline_block"><br/>
 <img align= "center" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <br/> <br/>
 jhonatansab@gmail.com
