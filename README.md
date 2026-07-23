@@ -1,40 +1,126 @@
+<div align="center">
 
-# Ola! Eu sou Jhony, seja bem vindo 🙋🏻‍♂️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Jhonatan%20Brum&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Desenvolvedor%20Full-Stack%20%7C%20Rio%20de%20Janeiro&descAlignY=54&descSize=18" width="100%" />
 
+<a href="https://www.linkedin.com/in/jhonatan-brum/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jhonatansab@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://img.shields.io/badge/Rio_de_Janeiro-BR-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localizacao" />
 
-![Jhony Hub stats](https://github-readme-stats.vercel.app/api?username=jhonysab&theme=blue-green&show_icons=true)
+</div>
 
-# Tecnologias do meu desenvolvimento
+---
 
-## Front-End
+## Sobre mim
 
-<div style="display: inline_block"><br/>
-    <img align= "center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align= "center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align= "center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div> <br/>
+Desenvolvedor full-stack no Rio de Janeiro, integrante do laboratório **FuzzyLab**.
 
-## Back-End
+Meu foco é **software que sai do editor e vai para a mão do usuário**. O projeto que mais me ensinou até hoje não foi um exercício: foi um sistema de PDV que escrevi para o comércio da minha família e que hoje roda no balcão, todo dia, operado por pessoas que não são técnicas. Aprendi ali que a parte difícil raramente é o código — é fazer alguém confiar no seu programa às 18h de um sábado cheio.
 
-<div style="display: inline_block"><br/>
-    <img align= "center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align= "center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align= "center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div> <br/>
+Gosto de problemas com regra de negócio de verdade: estoque, caixa, fechamento, relatório. E gosto quando a interface é tão óbvia que ninguém precisa de treinamento.
 
-# Sobre
+<br>
 
-Estou iniciando minha jornada no mundo da programação e estou adorando cada etapa do processo. Apaixonado por resolver problemas e criar soluções inovadoras, estou animado para aprender mais sobre desenvolvimento e colaborar em projetos incríveis. Acompanhe minha evolução aqui no GitHub!
+## Projetos em destaque
 
-Faço parte tambem do laboratorio FuzzyLab, aonde amplio minha rede de conhecimentos e experiências.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div style="display: inline_block"><br/>
-<img align= "center" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <br> </br>
-<p> jhonatansab@gmail.com </p> 
-</div>  
+### 🧾 PDV Unicka Digital
+**Sistema de ponto de venda — em produção**
 
-# Link das redes sociais:
+Frente de caixa, controle de estoque, cadastro de produtos e relatórios de venda. Desenvolvido do zero e **em uso diário em um comércio real**.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-brum/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonatan.brum.1/)
+`Java` `Spring Boot` `H2` `JavaScript` `HTML/CSS`
 
+</td>
+<td width="50%" valign="top">
+
+### 📱 Controle de Gastos
+**App Android nativo de finanças pessoais**
+
+Registro de despesas, categorização, sincronização em nuvem e geração de relatórios em PDF.
+
+`Kotlin` `Android` `Firebase` `Firestore`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏹 Arcadia Defense
+**Jogo tower defense 2D**
+
+Sistema de torres, ondas de inimigos, inventário, loja e boss fight. Atuei em programação, level design, arte e trilha sonora.
+
+`C#` `Unity` `Aseprite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ CRUDs Multilinguagem
+**O mesmo problema, três paradigmas**
+
+Implementação de um CRUD completo em C, Python e Java para comparar como cada linguagem resolve persistência e estrutura de dados.
+
+`C` `Python` `Java` `JSON`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tecnologias
+
+<div align="center">
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,php,c&theme=dark" />
+
+**Front-end & Mobile**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,androidstudio&theme=dark" />
+
+**Dados & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,maven,gradle,unity,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonysab&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonysab&layout=compact&hide_border=true&title_color=2F81F7&border_radius=10&langs_count=8" />
+
+</div>
+
+<br>
+
+## Vamos conversar
+
+Estou aberto a oportunidades como desenvolvedor. Se algum projeto aqui te interessou, me chama — gosto de explicar as decisões por trás deles.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jhonatan-brum/">
+  <img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jhonatansab@gmail.com">
+  <img src="https://img.shields.io/badge/jhonatansab@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%" />
+
+</div>
