@@ -55,9 +55,9 @@ Registro de despesas, categorização, sincronização em nuvem e geração de r
 ### 🏹 Arcadia Defense
 **Jogo tower defense 2D**
 
-Sistema de torres, ondas de inimigos, inventário, loja e boss fight. Atuei em programação, level design, arte e trilha sonora.
+Sistema de torres, ondas de inimigos, inventário, loja e boss com IA própria. Atuei em programação e level design.
 
-`C#` `Unity` `Aseprite`
+`C#` `Unity` `ScriptableObjects`
 
 </td>
 <td width="50%" valign="top">
